@@ -1,6 +1,6 @@
 <p align="center"><img src="http://ir_public.s3.amazonaws.com/projects/ignite/ignite-bowser-launch-screen.png" alt="logo" width="414px"></p>
 
-# Ignite Bowser - the hottest React Native boilerplate
+# Ignite owser - the hottest React Native boilerplate
 
 <a href="https://badge.fury.io/js/ignite-bowser" target="_blank"><img src="https://badge.fury.io/js/ignite-bowser.svg" alt="npm version" height="20"></a>
 
